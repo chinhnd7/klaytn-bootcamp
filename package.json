@@ -1,0 +1,11 @@
+{
+  "name": "jun",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/chinhnd7/klaytn-bootcamp.git",
+  "author": "chinhnd7 <ndchinh110797@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.2"
+  }
+}
